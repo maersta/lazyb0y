@@ -15,17 +15,17 @@ Kali/Parrot OS prefered
 **SETUP**
 
 
-sudo git clone https://github.com/maersta/lazyb0y.git
+>sudo git clone https://github.com/maersta/lazyb0y.git
 
-cd lazyb0y/
+>cd lazyb0y/
 
-sudo chmod +x install-tools.sh
+>sudo chmod +x install-tools.sh
 
-sudo chmod +x lazyb0y.sh
+>sudo chmod +x lazyb0y.sh
 
-sudo ./install-tools.sh (If you dont have the tools installed)
+>sudo ./install-tools.sh (If you dont have the tools installed)
 
-sudo ./lazyb0y.sh
+>sudo ./lazyb0y.sh
 
 Enter the target adress ("domain.com" or "192.168.1.1") and press Enter
 
