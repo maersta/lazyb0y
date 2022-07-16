@@ -1,7 +1,7 @@
 # lazyb0y
 
 
-- INTRODUCTION
+**INTRODUCTION**
 
 
 Super simple bash script used to generate quick commands for various web penetration tools
@@ -12,7 +12,7 @@ Kali/Parrot OS prefered
 
 
 
-- SETUP
+**SETUP**
 
 
 sudo git clone https://github.com/maersta/lazyb0y.git
@@ -27,7 +27,7 @@ sudo ./install-tools.sh (If you dont have the tools installed)
 
 sudo ./lazyb0y.sh
 
-Enter the target adress ("domain.com" or "192.168.1.1")
+Enter the target adress ("domain.com" or "192.168.1.1") and press Enter
 
 
 
