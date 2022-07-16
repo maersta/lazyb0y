@@ -1,5 +1,3 @@
-# lazyb0y
-
 **INTRODUCTION**
 ======
 
@@ -7,7 +5,7 @@ Rough bash script used to generate syntax for various web penetration tools and 
 
 Probably the worst code you've ever seen but hey, if it works.. 
 
-Kali/Parrot OS prefered
+Best used on Kali/Parrot OS
 
 
 **SETUP**
