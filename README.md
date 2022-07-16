@@ -1,9 +1,6 @@
 # lazyb0y
 
-
-
-**INTRODUCTION**
-
+**INTRODUCTION**__
 
 Super simple bash script used to generate quick commands for various web penetration tools
 
@@ -11,10 +8,7 @@ Probably the worst code you've ever seen but hey, if it works..
 
 Kali/Parrot OS prefered
 
-
-
-
-**SETUP**
+**SETUP**__
 
 1. Clone the repo
 
@@ -39,7 +33,5 @@ Kali/Parrot OS prefered
 6. Run the main script
 
 >sudo ./lazyb0y.sh
-
-
-
+__
 ![screen](https://user-images.githubusercontent.com/40675809/179372229-4919d976-f4a0-48ad-900b-bc08ba07398d.png)
