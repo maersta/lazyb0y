@@ -26,12 +26,12 @@ Kali/Parrot OS prefered
 
 >sudo chmod +x lazyb0y.sh
 
-5. Run the installer (optional)
+5. Run the tool installer (optional, should already be installed)
 
->sudo ./install-tools.sh
+>sudo bash install-tools.sh
 
 6. Run the main script
 
->sudo ./lazyb0y.sh
+>sudo bash lazyb0y.sh
   
 ![screen](https://user-images.githubusercontent.com/40675809/179372229-4919d976-f4a0-48ad-900b-bc08ba07398d.png)
