@@ -2,7 +2,7 @@
 
 **INTRODUCTION**
 <br /><br />
-Super simple bash script used to generate quick commands for various web penetration tools
+Rough bash script used to generate syntax for various web penetration tools and run some fast scans for a simple target overview.
 
 Probably the worst code you've ever seen but hey, if it works.. 
 
