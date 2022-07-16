@@ -1,10 +1,12 @@
 # lazyb0y
 
-Super simple bash script used to generate quick commands for various web penetration tools
+- INTRODUCTION
 
-Probably the worst code you've ever seen but hey, if it works.. 
+  Super simple bash script used to generate quick commands for various web penetration tools
 
-Kali/Parrot OS prefered
+  Probably the worst code you've ever seen but hey, if it works.. 
+
+  Kali/Parrot OS prefered
 
 - SETUP
 
