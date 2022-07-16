@@ -7,7 +7,7 @@ Super simple bash script used to generate quick commands for various web penetra
 Probably the worst code you've ever seen but hey, if it works.. 
 
 Kali/Parrot OS prefered
-
+<br /><br />
 **SETUP**
 <br /><br />
 1. Clone the repo
