@@ -2,9 +2,11 @@
 
 Super simple bash script used to generate quick commands for various web penetration tools
 
-Probably the worst code you've seen but hey, if it works.. 
+Probably the worst code you've ever seen but hey, if it works.. 
 
-SETUP
+Made for use with Kali/Parrot OS
+
+- SETUP
 
 1. sudo git clone https://github.com/maersta/lazyb0y.git
 2. cd lazyb0y/
