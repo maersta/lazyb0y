@@ -1,6 +1,7 @@
 # lazyb0y
 
 **INTRODUCTION**
+======
 <br /><br />
 Rough bash script used to generate syntax for various web penetration tools and run some fast scans for a simple target overview.
 
