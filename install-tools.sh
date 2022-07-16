@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 echo -e "\e[31m000000000000000000000000000000000000000000000000\e[0m"
-echo -e "\e[1;32mLazyb0y tools installer\e[0m"
+echo -e "\e[1;32m  Lazyb0y tools installer\e[0m"
 echo -e "\e[31m000000000000000000000000000000000000000000000000\e[0m"
 echo -e "\n"
 set -eu -o pipefail
@@ -26,7 +26,9 @@ echo -e "\n"
 sleep 6
 
 sudo apt-get install -y tig
+
+clear
 echo -e "\e[31m000000000000000000000000000000000000000000000000\e[0m"
-echo -e "\e[1;32mDone! Ready to run Lazyb0y.sh\e[0m"
+echo -e "\e[1;32m  Done! Ready to run Lazyb0y.sh\e[0m"
 echo -e "\e[31m000000000000000000000000000000000000000000000000\e[0m"
 echo -e "\n"
