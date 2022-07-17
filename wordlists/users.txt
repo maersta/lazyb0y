@@ -1,0 +1,5 @@
+admin
+test
+administrator
+beta
+guest
