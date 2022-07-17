@@ -17,6 +17,8 @@ while read -r p ; do sudo apt-get install -y $p ; done < <(cat << "EOF"
 	dirb
 	wpscan
 	sqlmap
+	ncrack
+	nslookup
 EOF
 )
 
