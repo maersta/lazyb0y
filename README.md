@@ -39,6 +39,6 @@ Best used on Kali/Parrot OS
 **Screenshots**
 ======
  
-![screen](https://user-images.githubusercontent.com/40675809/179372229-4919d976-f4a0-48ad-900b-bc08ba07398d.png)
-![1](https://user-images.githubusercontent.com/40675809/179375957-22f28d78-a4b8-4dbc-abd4-b18bca730410.png)
-![2](https://user-images.githubusercontent.com/40675809/179375959-45f42d86-e500-459a-a027-3029dcdf5ac5.png)
+
+![179375957-22f28d78-a4b8-4dbc-abd4-b18bca730410](https://user-images.githubusercontent.com/40675809/179379250-57b849ec-b673-4fbc-a611-49fa72d9a74c.png)
+![179375959-45f42d86-e500-459a-a027-3029dcdf5ac5](https://user-images.githubusercontent.com/40675809/179379253-9e2b1144-d99a-4b19-b39c-97001eac203c.png)
