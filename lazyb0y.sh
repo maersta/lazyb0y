@@ -7,8 +7,7 @@ echo -e "\e[31m000000000000000000000000000000000000000000000000\e[0m"
 echo -e "\n"
 echo -e "\e[1;37m Target URL or IP address (example.com or 192.168.1.1)\e[0m"
 echo -e "\n"
-read -p "Enter email: " email
-read varname
+read -p "IP/DOMAIN: " varname
 echo -e "\e[31m- - - - - - - - - - - - - - - - - - - - - - - - \e[0m"
 echo -e "\n"
 echo -e "\e[31m000000000000000000000000000000000000000000000000\e[0m"
@@ -37,7 +36,6 @@ echo -e "\e[31m000000000000000000000000000000000000000000000000\e[0m"
 echo -e "\e[1;32m  QUICK INFORMATION \e[0m"
 echo -e "\e[31m000000000000000000000000000000000000000000000000\e[0m"
 echo -e "\n"
-nslookup $varname >> logs/targets.txt
 nslookup $varname
 echo -e "\n"
 echo -e "\e[31m000000000000000000000000000000000000000000000000\e[0m"
