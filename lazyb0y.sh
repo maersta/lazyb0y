@@ -7,6 +7,7 @@ echo -e "\e[31m000000000000000000000000000000000000000000000000\e[0m"
 echo -e "\n"
 echo -e "\e[1;37m Target URL or IP address (example.com or 192.168.1.1)\e[0m"
 echo -e "\n"
+read -p "Enter email: " email
 read varname
 echo -e "\e[31m- - - - - - - - - - - - - - - - - - - - - - - - \e[0m"
 echo -e "\n"
